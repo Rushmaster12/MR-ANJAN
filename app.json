@@ -1,0 +1,26 @@
+
+{
+    "name": "𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋",
+    "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
+    "repository": "https://github.com/anonphoenix007/MAKINO-MD-V2",
+    "logo": "https://telegra.ph/file/c2074e6f71e4329e3da8b.jpg",
+    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+    "env": {
+     "sessID": {
+      "description": "Must put session ID.",
+      "required": true,
+      "value": ""
+    }
+    },
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+          }
+     ]
+}
