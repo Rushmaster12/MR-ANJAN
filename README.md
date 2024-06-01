@@ -13,7 +13,7 @@
 
 1. Fork the repo
     <br>
-<a href="https://github.com/OfficialAnjanv2/MR-ANJAN/fork"><img title="𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋" src="https://img.shields.io/badge/FORK_MAKINO-MD_V2-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/OfficialAnjanv2/MR-ANJAN/fork"><img title="𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋" src="https://img.shields.io/badge/Fork_Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/"></a>
 
 2. Scan or pair to get session ID
     <br>
@@ -28,7 +28,7 @@
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 2. Now Deploy
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Anonphoenix007/MAKINO-MD-V2' target="_blank"><img alt='DEPLOY Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/Mranjan101/MAKINO-MD-V2' target="_blank"><img alt='DEPLOY Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ---
 
