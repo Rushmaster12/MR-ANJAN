@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/OfficialAnjanv2"><img title="Author" src="https://img.shields.io/badge/Author_Of-𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 -black"></a>
+<a href="https://github.com/OfficialAnjanv2"><img title="Author" src="https://img.shields.io/badge/Author_Of-𝐌𝐫-𝐚𝐧𝐣𝐚𝐧-black"></a>
 
 <p align="center">  
   <a href="https://wa.me/919883457657">
@@ -8,7 +8,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/OfficialAnjanv2"><img title="Author" src="https://img.shields.io/badge/Makino-MDv2-black?style=for-the-badge&logo=twitter"></a>
+<a href="https://github.com/OfficialAnjanv2"><img title="Author" src=""></a>
 <p/>
 <p align="center">
 <a href="https://github.com/OfficialAnjanv2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/anonphoenix007?label=Followers&style=social"></a>
