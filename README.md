@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/OfficialAnjanv2"><img title="Author" src="https://img.shields.io/badge/Author_Of-MAKINO_V2-black"></a>
+<a href="https://github.com/OfficialAnjanv2"><img title="Author" src="https://img.shields.io/badge/Author_Of-𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 -black"></a>
 
 <p align="center">  
   <a href="https://wa.me/919883457657">
