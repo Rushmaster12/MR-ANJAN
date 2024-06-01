@@ -7,12 +7,6 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/OfficialAnjanv2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/anonphoenix007?label=Followers&style=social"></a>
-<a href="https://github.com/OfficialAnjanv2/MR-ANJAN/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/anonphoenix007/MAKINO-MD-V2?&style=social"></a>
-<a href="https://github.com/OfficialAnjanv2/MR-ANJAN/network/members"><img title="Fork" src="https://img.shields.io/github/forks/anonphoenix007/MAKINO-MD-V2?style=social"></a>
-<a href="https://github.com/OfficialAnjanv2/MR-ANJAN/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/anonphoenix007/MAKINO-MD-V2?label=Watching&style=social"></a>
-</p>
-
 
 
 #### SETUP
