@@ -21,25 +21,25 @@ global.statusseen = false;                 //make true to view statuses
 
 
 //
-/*global.Owner = process.env.OWNER || "919883457657";// Owner number
-global.OwnerNumber = process.env.OWNER_NUMBER || "919883457657" ;// Also owner number
-global.ownertag = process.env.OWNER_TAG || "919883457657";// Also owner number
+/*global.Owner = process.env.OWNER || "918698402759";// Owner number
+global.OwnerNumber = process.env.OWNER_NUMBER || "918698402759" ;// Also owner number
+global.ownertag = process.env.OWNER_TAG || "918698402759";// Also owner number
 global.sessID = process.env.sessID || ""; //Session ID here.
-global.OwnerName = process.env.OWNER_NAME || "𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ";// Owner Name
-global.BotName = "𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ";//Do not change 🥵
-global.packname = process.env.PACKNAME || "𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ";//Sticker pack name.
+global.OwnerName = process.env.OWNER_NAME || "RUSH-MASTER ☯️";// Owner Name
+global.BotName = "RUSH-MASTER ";//Do not change 🥵
+global.packname = process.env.PACKNAME || "RUSH-MASTER☯️ ";//Sticker pack name.
 global.author = "𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ";//Do not change                            //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change or bot will not function.
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
 global.dbase = process.env.DBASE || "";//Mongodb here
 global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
 */
-global.Owner = ["𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋"];
-global.OwnerNumber = ["919883457657"];
-global.ownertag = ["919883457657"]; 
-global.OwnerName =  "𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋";
-global.BotName = "𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋";
-global.packname = "𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋";                             //Do not change.
+global.Owner = ["𝐌𝐫-RUSH☯️"];
+global.OwnerNumber = ["918698402759"];
+global.ownertag = ["918698402759"]; 
+global.OwnerName =  "𝐌𝐫-RUSH";
+global.BotName = "𝐌𝐫-RUSH👀🦋";
+global.packname = "𝐌𝐫-RUSH👀🦋";                             //Do not change.
 global.author = "𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/JrA3XLQtyka0muECxfYQTR"; 
@@ -61,7 +61,7 @@ global.openAiAPI = "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";
 global.location = "kolkata, india";                   
 global.reactmoji = "🐦";
 global.themeemoji = "😏";
-global.vidmenu = { url: 'https://telegra.ph/file/c2074e6f71e4329e3da8b.jpg' };
+global.vidmenu = { url: 'https://telegra.ph/file/a7c61e4775e632e9f48e9.jpg' };
 global.websitex = "https://github.com/OfficialAnjanv2";
 global.lolhuman = "KaysaS";
 
